@@ -1,5 +1,5 @@
 //
-// BinarySearchTree.java
+// Least Common Ancestor BinarySearchTree.java
 //
 //
 //
